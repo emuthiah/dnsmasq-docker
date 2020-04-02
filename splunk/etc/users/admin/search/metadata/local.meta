@@ -1,0 +1,29 @@
+[history/.dummy_history]
+version = 8.0.2.1
+modtime = 1585802872.599905000
+
+[ui-tour/search-tour]
+version = 8.0.2.1
+modtime = 1585802902.008100000
+
+[ui-tour/dashboards-tour%3Aenterprise]
+version = 8.0.2.1
+modtime = 1585802923.240220000
+
+[views/dns]
+version = 8.0.2.1
+modtime = 1585803680.939111000
+
+[ui-prefs/search]
+version = 8.0.2.1
+modtime = 1585803614.901237000
+
+[props/httpevent/EXTRACT-hostName]
+owner = admin
+version = 8.0.2.1
+modtime = 1585803152.406530000
+
+[props/httpevent/EXTRACT-recordType]
+owner = admin
+version = 8.0.2.1
+modtime = 1585803494.704590000
