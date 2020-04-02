@@ -1,0 +1,6 @@
+[inputs/http%3A%2F%2Fdocker]
+access = read : [ admin ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.2.1
+modtime = 1585802867.619211000
