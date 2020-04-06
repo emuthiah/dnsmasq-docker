@@ -1,0 +1,10 @@
+[inputs/http]
+version = 8.0.2.1
+modtime = 1586142322.622691000
+
+[inputs/http%3A%2F%2Fdocker_hce]
+access = read : [ admin ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.2.1
+modtime = 1586144541.952367000
